@@ -9,6 +9,7 @@ Reason why they selected their topic ✓ Description of their source of data
  Questions they hope to answer with the data
 * The question I am purposing is can you predict the quality of a specific wine based off of the ingredients.
 
-The Data that I have choose to used and placed in this segment is data from white and red wine qualities. The categories are shown below.
+ Description of their source of data
+*The Data that I have choose to used and placed in this segment is data from white and red wine qualities. The categories are shown below.
 
 <img width="977" alt="Screen Shot 2022-11-01 at 4 32 22 PM" src="https://user-images.githubusercontent.com/107597779/199361438-27b0f02c-5bf4-4613-b097-361db300c52b.png">
