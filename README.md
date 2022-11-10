@@ -50,3 +50,8 @@ The inout varibales, aka the ingredients and categories are below.
 10 - sulphates: A wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
 
 11 - alcohol: The percent alcohol content of the wine
+
+
+The below imagine shows the applications that I choose to use in order to clean and break down my data. 
+
+<img width="566" alt="Screen Shot 2022-11-06 at 4 17 23 PM" src="https://user-images.githubusercontent.com/107597779/200203551-e21d5109-2f14-4215-a5fb-66ac3589c4e3.png">
